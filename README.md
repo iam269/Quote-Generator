@@ -24,7 +24,7 @@ A sophisticated web application that delivers daily inspirational quotes through
 
 ## 🌐 Live Demo
 
-Experience the Quote Generator live: [https://iam269.github.io/Quote-Generator/](https://iam269.github.io/Quote-Generator/)
+Experience the Quote Generator live: [https://itsiamdev.github.io/Quote-Generator/](https://itsiamdev.github.io/Quote-Generator/)
 
 ## 🛠️ Technologies Used
 
